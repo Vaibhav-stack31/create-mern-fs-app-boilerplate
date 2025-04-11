@@ -1,4 +1,4 @@
-# 🚀 create-fs-app
+# 🚀 create-mern-fs-app
 
 A zero-setup CLI tool to scaffold a fullstack app using Vite (React) + Express + MongoDB in seconds.  
 Perfect for building modern fullstack web apps with organized client and server folders.
@@ -22,13 +22,13 @@ Perfect for building modern fullstack web apps with organized client and server 
 ### Using `npx` (no installation required):
 
 ```bash
-npx create-fs-app myapp
+npx create-mern-fs-app myapp
 ```
 
 Or install globally:
 
 ```bash
-npm install -g create-fs-app
+npm install -g create-mern-fs-app
 ```
 
 ---
@@ -36,7 +36,7 @@ npm install -g create-fs-app
 ## 🧰 Usage
 
 ```bash
-create-fs-app myapp
+create-mern-fs-app myapp
 ```
 
 You’ll be prompted to enter a project name (default: `myapp`).
